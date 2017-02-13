@@ -1,0 +1,14 @@
+.dialog-box{
+	border: 1px solid black;
+	border-radius: 15px;
+	display: flex;
+	margin:auto;
+	width: 140px;
+	height:30px;
+	background: #aa6414;
+}
+body{
+	background-image: url("bar.jpg");
+	background-repeat:repeat;
+
+}
